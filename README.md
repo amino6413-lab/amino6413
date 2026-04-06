@@ -6,7 +6,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🏭 **물류/창고 PM 경력** — 입출고·재고 운영 실무 경험 보유
 - 🤖 **AI 개발로 전환** — LLM, YOLO, RAG, LangChain 기반 서비스 구축 중
 - ☕ **Java/Spring Boot** 백엔드 + **Python/FastAPI** AI 서버 병행
 
