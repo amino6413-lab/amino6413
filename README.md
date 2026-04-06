@@ -40,7 +40,7 @@
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
 | [🏛 Ai-Law](https://github.com/amino6413/ai-law) | AI 법률 상담 플랫폼 — 변호사 매칭, 계약서 분석(LangChain) | Spring Boot, FastAPI, React |
-| [⚖️ BMI Calculator](https://github.com/amino6413/bmi-calculator) | Flask + MariaDB 기반 BMI 추적 웹앱 | Python, Flask, MariaDB |
+| |
 
 ---
 
