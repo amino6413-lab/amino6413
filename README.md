@@ -1,7 +1,6 @@
 # 안녕하세요, 김용입니다 👋
 
-> **물류 PM 출신 → AI 백엔드 개발자**  
-> 현장 운영 경험을 기반으로 실제 비즈니스 문제를 푸는 AI 시스템을 만듭니다.
+
 
 ---
 
@@ -10,7 +9,6 @@
 - 🏭 **물류/창고 PM 경력** — 입출고·재고 운영 실무 경험 보유
 - 🤖 **AI 개발로 전환** — LLM, YOLO, RAG, LangChain 기반 서비스 구축 중
 - ☕ **Java/Spring Boot** 백엔드 + **Python/FastAPI** AI 서버 병행
-- 📦 물류 도메인 × AI = 차별화된 포지션
 
 ---
 
@@ -54,4 +52,5 @@
 ## 📫 Contact
 
 - 📧 Email: your@email.com
-- 💼 사람인: [프로필 링크https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/mandb_view/n/res_idx/37337341]
+- 💼 사람인: [프로필 링크]
+- https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/mandb_view/n/res_idx/37337341
