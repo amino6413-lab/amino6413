@@ -36,7 +36,7 @@
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
-| [🏛 Ai-Law](https://github.com/amino6413/ai-law) | AI 법률 상담 플랫폼 — 변호사 매칭, 계약서 분석(LangChain) | Spring Boot, FastAPI, React |
+| [🏛 Ai-Law](https://github.com/amino6413-lab/ai-law) | AI 법률 상담 플랫폼 — 변호사 매칭, PortOne 결제 연동 | Spring Boot, FastAPI, React |
 | |
 
 ---
